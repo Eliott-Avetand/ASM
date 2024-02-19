@@ -1,0 +1,8 @@
+libasm.so
+a.out
+*.o
+main.c
+.vscode/
+*.gcda
+*.gcno
+unit-tests
